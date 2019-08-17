@@ -14,6 +14,13 @@
 	<!-- Sapper generates a <style> tag containing critical CSS
 	     for the current page. CSS for the rest of the app is
 	     lazily loaded when it precaches secondary pages -->
+
+	<style>  input.form-control[type=text],
+  input.form-control[type=password] {
+    background: black;
+    color: grey;
+  }</style>
+
 	%sapper.styles%
 
 	<!-- This contains the contents of the <svelte:head> component, if
