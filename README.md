@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/7oxbrj9ckbihdfgy?svg=true)](https://ci.appveyor.com/project/InstanceOfMichael/otp-sapper)
+[![Build status](https://ci.appveyor.com/api/projects/status/7oxbrj9ckbihdfgy?svg=true)](https://ci.appveyor.com/project/InstanceOfMichael/otp-sapper) [![Greenkeeper badge](https://badges.greenkeeper.io/greatenemy/otp-sapper.svg)](https://greenkeeper.io/)
 
 # sapper-template
 
