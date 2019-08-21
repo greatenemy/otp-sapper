@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/7oxbrj9ckbihdfgy?svg=true)](https://ci.appveyor.com/project/InstanceOfMichael/otp-sapper)
+
 # sapper-template
 
 The default [Sapper](https://github.com/sveltejs/sapper) template, with branches for Rollup and webpack. To clone it and get started:
