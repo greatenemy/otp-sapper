@@ -10,7 +10,10 @@
 <h4 class="text-center title">HTML5 OTP</h4>
 <p>This is a proof of concept drop-in-replacement for Google Authenticator, do not use in production.</p>
 <br />
-<Vault />
+
+{#if process.browser}
+  <Vault />
+{/if}
 
 <script>
   import Vault from '~/components/Vault.svelte';
